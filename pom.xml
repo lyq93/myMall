@@ -7,13 +7,16 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>mall</name>
     <description>聚合服务</description>
-    <packaging>POM</packaging>
+    <packaging>pom</packaging>
     <modules>
         <module>mall-coupon</module>
         <module>mall-product</module>
         <module>mall-member</module>
         <module>mall-order</module>
         <module>mall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>mall-common</module>
     </modules>
 
     <properties>
